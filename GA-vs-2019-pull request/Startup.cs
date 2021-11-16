@@ -32,7 +32,7 @@ namespace GA_vs_2019_pull_request
             {
                 endpoints.MapGet("/", async context =>
                 {
-                    await context.Response.WriteAsync("Hello World!");
+                    await context.Response.WriteAsync<h1>Hello World!<h1>
                 });
             });
         }
