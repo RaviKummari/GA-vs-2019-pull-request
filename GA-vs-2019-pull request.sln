@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GA-vs-2019-pull request", "GA-vs-2019-pull request\GA-vs-2019-pull request.csproj", "{01E2CC9E-DD0B-4CEF-B3B0-036458A09353}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01E2CC9E-DD0B-4CEF-B3B0-036458A09353}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01E2CC9E-DD0B-4CEF-B3B0-036458A09353}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01E2CC9E-DD0B-4CEF-B3B0-036458A09353}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01E2CC9E-DD0B-4CEF-B3B0-036458A09353}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0F97ADF-ED6D-4DBD-9278-2516D1F4A0A4}
+	EndGlobalSection
+EndGlobal
